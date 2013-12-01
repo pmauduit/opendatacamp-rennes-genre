@@ -1,0 +1,3194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "area": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "highway": "pedestrian",
+        "name": "Place Simone de Beauvoir",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6889101,
+            48.1178115
+          ],
+          [
+            -1.6885053,
+            48.1176552
+          ],
+          [
+            -1.6887779,
+            48.1173385
+          ],
+          [
+            -1.6891828,
+            48.1174947
+          ],
+          [
+            -1.6889101,
+            48.1178115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Rue George Sand",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6683835,
+            48.1162918
+          ],
+          [
+            -1.6683802,
+            48.1163602
+          ],
+          [
+            -1.6683426,
+            48.1171525
+          ],
+          [
+            -1.6683287,
+            48.1175352
+          ],
+          [
+            -1.6683187,
+            48.1179434
+          ],
+          [
+            -1.6682799,
+            48.1186651
+          ],
+          [
+            -1.6683218,
+            48.1187305
+          ],
+          [
+            -1.6683696,
+            48.1187979
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "living_street",
+        "name": "Rue Nathalie Lemel",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7109891,
+            48.1027209
+          ],
+          [
+            -1.7108418,
+            48.102657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+        "highway": "residential",
+        "name": "Rue Hélène Boucher",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.688993,
+            48.1169256
+          ],
+          [
+            -1.6894134,
+            48.1164189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Jeanne Couplan",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6421426,
+            48.1139221
+          ],
+          [
+            -1.6421489,
+            48.114015
+          ],
+          [
+            -1.6421748,
+            48.1149572
+          ],
+          [
+            -1.6433469,
+            48.1149375
+          ],
+          [
+            -1.6433224,
+            48.1140055
+          ],
+          [
+            -1.6433147,
+            48.1139185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name:br": "Boulouard an Dugez Anna",
+        "highway": "secondary",
+        "cycleway:right": "lane",
+        "name": "Boulevard de la Duchesse Anne",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6674321,
+            48.1192861
+          ],
+          [
+            -1.6681639,
+            48.1204328
+          ],
+          [
+            -1.6694366,
+            48.122431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Barbara",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6986532,
+            48.1295195
+          ],
+          [
+            -1.6988516,
+            48.1301422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "psv": "yes",
+        "name:br": "Plasenn Santez-Anna",
+        "highway": "service",
+        "name": "Place Sainte-Anne",
+        "access": "no",
+        "bicycle": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680605,
+            48.1146136
+          ],
+          [
+            -1.6801291,
+            48.1146159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "residential",
+        "name": "Square Anne-Marie Tanguy",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6344093,
+            48.0902695
+          ],
+          [
+            -1.6338355,
+            48.0901288
+          ],
+          [
+            -1.6338037,
+            48.0902819
+          ],
+          [
+            -1.6337973,
+            48.0904859
+          ],
+          [
+            -1.6338256,
+            48.0909047
+          ],
+          [
+            -1.6339886,
+            48.0912471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "tertiary",
+        "name": "Rue André et Yvonne Meynier",
+        "gender": "FM"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7107116,
+            48.1263966
+          ],
+          [
+            -1.7107307,
+            48.1265713
+          ],
+          [
+            -1.7103712,
+            48.1267966
+          ],
+          [
+            -1.7101379,
+            48.1268765
+          ],
+          [
+            -1.7081372,
+            48.1269931
+          ],
+          [
+            -1.7078869,
+            48.127072
+          ],
+          [
+            -1.7078384,
+            48.1271888
+          ],
+          [
+            -1.7078328,
+            48.1272706
+          ],
+          [
+            -1.7079364,
+            48.127834
+          ],
+          [
+            -1.7079845,
+            48.1280848
+          ],
+          [
+            -1.7081275,
+            48.1288311
+          ],
+          [
+            -1.7082019,
+            48.1291951
+          ],
+          [
+            -1.7081644,
+            48.1293929
+          ],
+          [
+            -1.7079335,
+            48.1295746
+          ],
+          [
+            -1.7078096,
+            48.1296184
+          ],
+          [
+            -1.7072108,
+            48.1298301
+          ],
+          [
+            -1.7052658,
+            48.1305035
+          ],
+          [
+            -1.705117,
+            48.1305611
+          ],
+          [
+            -1.7049553,
+            48.1306136
+          ],
+          [
+            -1.7047486,
+            48.1306848
+          ],
+          [
+            -1.7046081,
+            48.1307353
+          ],
+          [
+            -1.7040849,
+            48.1309235
+          ],
+          [
+            -1.7038757,
+            48.1309921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Edith Cavell",
+        "cycleway": "opposite",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6778148,
+            48.1109847
+          ],
+          [
+            -1.6778171,
+            48.1117252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "highway": "residential",
+        "name": "Allée Sainte-Sophie",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6683426,
+            48.1171525
+          ],
+          [
+            -1.6672846,
+            48.1171298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "noexit": "yes",
+        "highway": "residential",
+        "name": "Square Séverine",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6800239,
+            48.1219399
+          ],
+          [
+            -1.6798846,
+            48.1217602
+          ],
+          [
+            -1.6798119,
+            48.1217332
+          ],
+          [
+            -1.6795053,
+            48.1218401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name:br": "Boulouard an Dugez Anna",
+        "highway": "secondary",
+        "cycleway:right": "lane",
+        "name": "Boulevard de la Duchesse Anne",
+        "oneway": "yes",
+        "maxspeed": "50",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6661864,
+            48.1124597
+          ],
+          [
+            -1.6660963,
+            48.1133167
+          ],
+          [
+            -1.6658453,
+            48.1150175
+          ],
+          [
+            -1.6658314,
+            48.1153706
+          ],
+          [
+            -1.6662086,
+            48.1162553
+          ],
+          [
+            -1.6668877,
+            48.1179529
+          ],
+          [
+            -1.6674321,
+            48.1192861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Allée Ermengarde d'Anjou",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7151624,
+            48.1137455
+          ],
+          [
+            -1.7157636,
+            48.1132553
+          ],
+          [
+            -1.7158841,
+            48.113157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Cécile Brunschvicg",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6639378,
+            48.0934504
+          ],
+          [
+            -1.6645707,
+            48.0932247
+          ],
+          [
+            -1.6647448,
+            48.0931985
+          ],
+          [
+            -1.6656305,
+            48.0930391
+          ],
+          [
+            -1.6658175,
+            48.0929923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Marçais-Martin",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6779839,
+            48.097754
+          ],
+          [
+            -1.6779918,
+            48.0978087
+          ],
+          [
+            -1.6782019,
+            48.0992614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2012",
+        "highway": "residential",
+        "name": "Rue Aimée Antignac",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7023843,
+            48.1077689
+          ],
+          [
+            -1.7023028,
+            48.1074293
+          ],
+          [
+            -1.7042611,
+            48.107221
+          ],
+          [
+            -1.704372,
+            48.1076612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "tertiary",
+        "name": "Boulevard de Sévigné",
+        "maxspeed": "50",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6662086,
+            48.1162553
+          ],
+          [
+            -1.6655142,
+            48.1162347
+          ],
+          [
+            -1.6646485,
+            48.1162144
+          ],
+          [
+            -1.6636811,
+            48.1162011
+          ],
+          [
+            -1.6635073,
+            48.116202
+          ],
+          [
+            -1.6623782,
+            48.1161819
+          ],
+          [
+            -1.6612639,
+            48.1161525
+          ],
+          [
+            -1.6585091,
+            48.1161389
+          ],
+          [
+            -1.6583822,
+            48.1161396
+          ],
+          [
+            -1.6582948,
+            48.1161587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Marçais-Martin",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678966,
+            48.101633
+          ],
+          [
+            -1.6783512,
+            48.1000945
+          ],
+          [
+            -1.6782019,
+            48.0992614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Marie Rouault",
+        "oneway": "-1",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.677028,
+            48.0977487
+          ],
+          [
+            -1.6757657,
+            48.0979059
+          ],
+          [
+            -1.675442,
+            48.0979566
+          ],
+          [
+            -1.6753228,
+            48.0979717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Avenue Germaine Dulac",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6952032,
+            48.1318056
+          ],
+          [
+            -1.6952286,
+            48.1317688
+          ],
+          [
+            -1.6952152,
+            48.1317062
+          ],
+          [
+            -1.6951986,
+            48.1316632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Avenue de Grignan",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6709127,
+            48.1159312
+          ],
+          [
+            -1.6710006,
+            48.1163005
+          ],
+          [
+            -1.6710064,
+            48.1163296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Allée Simone Weil",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6924848,
+            48.0884609
+          ],
+          [
+            -1.6929892,
+            48.0856802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "oneway:bicycle": "no",
+        "highway": "tertiary",
+        "name": "Avenue de Grignan",
+        "cycleway": "opposite",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6708376,
+            48.1155085
+          ],
+          [
+            -1.6709127,
+            48.1159312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "residential",
+        "name": "Rue Angèle Vannier",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6463525,
+            48.0960137
+          ],
+          [
+            -1.6460762,
+            48.0965523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "noexit": "yes",
+        "highway": "residential",
+        "name": "Allée Jeanne Guillon",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6693855,
+            48.1123105
+          ],
+          [
+            -1.6694422,
+            48.1126055
+          ],
+          [
+            -1.6694573,
+            48.1126876
+          ],
+          [
+            -1.6691898,
+            48.1127108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "service",
+        "name": "Square Simone Morand",
+        "service": "alley",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7074991,
+            48.1088021
+          ],
+          [
+            -1.7073412,
+            48.1088355
+          ],
+          [
+            -1.7074688,
+            48.1090877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Rue Geneviève d'Haucourt",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6916194,
+            48.1311656
+          ],
+          [
+            -1.6915822,
+            48.1311042
+          ],
+          [
+            -1.6911731,
+            48.1307489
+          ],
+          [
+            -1.6908981,
+            48.1304866
+          ],
+          [
+            -1.6908593,
+            48.1304763
+          ],
+          [
+            -1.6908056,
+            48.1304799
+          ],
+          [
+            -1.6907278,
+            48.1305175
+          ],
+          [
+            -1.6903814,
+            48.1306913
+          ],
+          [
+            -1.6900331,
+            48.1308576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "noexit": "yes",
+        "highway": "residential",
+        "name": "Square Séverine",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6794623,
+            48.1219186
+          ],
+          [
+            -1.6797944,
+            48.1223734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "residential",
+        "name": "Allée Flora Tristan",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6392167,
+            48.0997031
+          ],
+          [
+            -1.6391977,
+            48.0994551
+          ],
+          [
+            -1.6393167,
+            48.0993063
+          ],
+          [
+            -1.6393021,
+            48.0991652
+          ],
+          [
+            -1.6394201,
+            48.0990293
+          ],
+          [
+            -1.6394044,
+            48.098893
+          ],
+          [
+            -1.63952,
+            48.0987414
+          ],
+          [
+            -1.6395028,
+            48.0985083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Marie Rouault",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678971,
+            48.0976678
+          ],
+          [
+            -1.6779839,
+            48.097754
+          ],
+          [
+            -1.677028,
+            48.0977487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surface": "ground",
+        "highway": "residential",
+        "width": "3",
+        "name": "Avenue Germaine Dulac",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.69684,
+            48.1342317
+          ],
+          [
+            -1.6966825,
+            48.1341426
+          ],
+          [
+            -1.6965022,
+            48.1340277
+          ],
+          [
+            -1.6963383,
+            48.1339074
+          ],
+          [
+            -1.6961662,
+            48.1337925
+          ],
+          [
+            -1.6960187,
+            48.1336613
+          ],
+          [
+            -1.6958116,
+            48.133233
+          ],
+          [
+            -1.6954087,
+            48.1322762
+          ],
+          [
+            -1.6952392,
+            48.1318908
+          ],
+          [
+            -1.6952032,
+            48.1318056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Zenaïde Fleuriot",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6629993,
+            48.1236786
+          ],
+          [
+            -1.6629546,
+            48.1234165
+          ],
+          [
+            -1.6628031,
+            48.1232511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "residential",
+        "name": "Rue Madame du Campfranc",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6496603,
+            48.1022577
+          ],
+          [
+            -1.651568,
+            48.1034663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "highway": "pedestrian",
+        "name": "Square Sarah Bernhardt",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6813484,
+            48.0908377
+          ],
+          [
+            -1.6813495,
+            48.09083
+          ],
+          [
+            -1.6813045,
+            48.0911485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "highway": "service",
+        "name": "Allée Ermengarde d'Anjou",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7158841,
+            48.113157
+          ],
+          [
+            -1.7155514,
+            48.1131833
+          ],
+          [
+            -1.7153999,
+            48.1131885
+          ],
+          [
+            -1.7152632,
+            48.1131932
+          ],
+          [
+            -1.7151745,
+            48.1131963
+          ],
+          [
+            -1.7149642,
+            48.1132035
+          ],
+          [
+            -1.7148815,
+            48.1124608
+          ],
+          [
+            -1.7144727,
+            48.1124811
+          ],
+          [
+            -1.7145071,
+            48.112761
+          ],
+          [
+            -1.7145394,
+            48.1130681
+          ],
+          [
+            -1.714559,
+            48.1132405
+          ],
+          [
+            -1.7147459,
+            48.1132884
+          ],
+          [
+            -1.7149642,
+            48.1132035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surface": "cobblestone",
+        "highway": "pedestrian",
+        "name": "Place Sainte-Anne",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6794995,
+            48.1144793
+          ],
+          [
+            -1.6794239,
+            48.1144776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": "roundabout",
+        "highway": "residential",
+        "name": "Rue Angèle Vannier",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6460762,
+            48.0965523
+          ],
+          [
+            -1.6458803,
+            48.0965612
+          ],
+          [
+            -1.6457289,
+            48.0966564
+          ],
+          [
+            -1.6457433,
+            48.0967771
+          ],
+          [
+            -1.6457856,
+            48.096825
+          ],
+          [
+            -1.6458465,
+            48.0968641
+          ],
+          [
+            -1.6459902,
+            48.0968798
+          ],
+          [
+            -1.6461716,
+            48.0968322
+          ],
+          [
+            -1.6462142,
+            48.0966742
+          ],
+          [
+            -1.6460762,
+            48.0965523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "tertiary",
+        "name": "Boulevard de Sévigné",
+        "cycleway": "opposite_lane",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6741802,
+            48.1164863
+          ],
+          [
+            -1.6740315,
+            48.1164262
+          ],
+          [
+            -1.6739323,
+            48.1164064
+          ],
+          [
+            -1.6725949,
+            48.1163785
+          ],
+          [
+            -1.6710064,
+            48.1163296
+          ],
+          [
+            -1.6684587,
+            48.1162934
+          ],
+          [
+            -1.6683835,
+            48.1162918
+          ],
+          [
+            -1.6676682,
+            48.116277
+          ],
+          [
+            -1.6662086,
+            48.1162553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Rue Jeanne Jugan",
+        "maxspeed": "50",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6494863,
+            48.1156126
+          ],
+          [
+            -1.6485744,
+            48.1157037
+          ],
+          [
+            -1.648473,
+            48.1157133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surface": "cobblestone",
+        "highway": "pedestrian",
+        "name": "Rue des Dames",
+        "oneway": "yes",
+        "access": "designated",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6844902,
+            48.1114863
+          ],
+          [
+            -1.6841535,
+            48.1114773
+          ],
+          [
+            -1.684141,
+            48.1111656
+          ],
+          [
+            -1.6841214,
+            48.110996
+          ],
+          [
+            -1.6840573,
+            48.1108791
+          ],
+          [
+            -1.6840092,
+            48.1107913
+          ],
+          [
+            -1.6838615,
+            48.110674
+          ],
+          [
+            -1.6834991,
+            48.1106146
+          ],
+          [
+            -1.6831333,
+            48.1105644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Marie Dorval",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7035571,
+            48.1296856
+          ],
+          [
+            -1.7034189,
+            48.1297009
+          ],
+          [
+            -1.7015856,
+            48.1299662
+          ],
+          [
+            -1.700848,
+            48.130072
+          ],
+          [
+            -1.7003057,
+            48.1297254
+          ],
+          [
+            -1.7003057,
+            48.1293019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name:br": "Plasenn Santez-Anna",
+        "highway": "residential",
+        "name": "Place Sainte-Anne",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6808419,
+            48.1146102
+          ],
+          [
+            -1.6811664,
+            48.1146068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "area": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "highway": "pedestrian",
+        "name": "Square Sarah Bernhardt",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6817398,
+            48.0911741
+          ],
+          [
+            -1.6813045,
+            48.0911485
+          ],
+          [
+            -1.6812431,
+            48.0911449
+          ],
+          [
+            -1.6812056,
+            48.091429
+          ],
+          [
+            -1.681201,
+            48.091464
+          ],
+          [
+            -1.6811643,
+            48.0917424
+          ],
+          [
+            -1.6816621,
+            48.0917724
+          ],
+          [
+            -1.6817334,
+            48.0912165
+          ],
+          [
+            -1.6817363,
+            48.0912003
+          ],
+          [
+            -1.6817398,
+            48.0911741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue de la Fée Viviane",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.714089,
+            48.1162956
+          ],
+          [
+            -1.7140929,
+            48.1163749
+          ],
+          [
+            -1.7141017,
+            48.1164064
+          ],
+          [
+            -1.7141083,
+            48.1170874
+          ],
+          [
+            -1.7138897,
+            48.1176606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Rue Jeanne Jugan",
+        "cycleway": "opposite",
+        "oneway": "yes",
+        "maxspeed": "50",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6526003,
+            48.1150052
+          ],
+          [
+            -1.6525444,
+            48.1150123
+          ],
+          [
+            -1.6510153,
+            48.1153359
+          ],
+          [
+            -1.6494863,
+            48.1156126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "area": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "highway": "pedestrian",
+        "name": "Place Marie Pape-Carpantier",
+        "wikipedia": "fr:Marie Pape-Carpantier",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6951571,
+            48.1060251
+          ],
+          [
+            -1.6947258,
+            48.1060174
+          ],
+          [
+            -1.6947422,
+            48.1057513
+          ],
+          [
+            -1.6947473,
+            48.1056697
+          ],
+          [
+            -1.6947995,
+            48.1056707
+          ],
+          [
+            -1.6949257,
+            48.1056732
+          ],
+          [
+            -1.6951587,
+            48.1056777
+          ],
+          [
+            -1.6951571,
+            48.1060251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "noexit": "yes",
+        "highway": "unclassified",
+        "name": "Allée Marie Berhaut",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6836447,
+            48.132652
+          ],
+          [
+            -1.6827918,
+            48.1326645
+          ],
+          [
+            -1.6818887,
+            48.1327658
+          ],
+          [
+            -1.6808433,
+            48.1328394
+          ],
+          [
+            -1.6807256,
+            48.1328825
+          ],
+          [
+            -1.6806684,
+            48.1329656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name:br": "Plasenn Santez-Anna",
+        "area": "yes",
+        "highway": "pedestrian",
+        "name": "Place Sainte-Anne",
+        "wikipedia": "fr:Place Sainte-Anne (Rennes)",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6801291,
+            48.1146159
+          ],
+          [
+            -1.6800279,
+            48.1145732
+          ],
+          [
+            -1.6799967,
+            48.114557
+          ],
+          [
+            -1.679959,
+            48.1145374
+          ],
+          [
+            -1.679857,
+            48.1145158
+          ],
+          [
+            -1.6798349,
+            48.1145134
+          ],
+          [
+            -1.6798149,
+            48.1145133
+          ],
+          [
+            -1.6797327,
+            48.1145228
+          ],
+          [
+            -1.6796593,
+            48.1145334
+          ],
+          [
+            -1.6795951,
+            48.1145436
+          ],
+          [
+            -1.6795922,
+            48.1145559
+          ],
+          [
+            -1.6795529,
+            48.1145509
+          ],
+          [
+            -1.6794974,
+            48.1145439
+          ],
+          [
+            -1.6794995,
+            48.1144793
+          ],
+          [
+            -1.6795008,
+            48.1144034
+          ],
+          [
+            -1.6795566,
+            48.1144103
+          ],
+          [
+            -1.6796154,
+            48.1144176
+          ],
+          [
+            -1.6796541,
+            48.1144019
+          ],
+          [
+            -1.6796898,
+            48.1143874
+          ],
+          [
+            -1.6797207,
+            48.1143748
+          ],
+          [
+            -1.6797695,
+            48.1143548
+          ],
+          [
+            -1.6798192,
+            48.1143344
+          ],
+          [
+            -1.6798583,
+            48.1142947
+          ],
+          [
+            -1.6798955,
+            48.1142571
+          ],
+          [
+            -1.6798907,
+            48.1142546
+          ],
+          [
+            -1.6799182,
+            48.1142296
+          ],
+          [
+            -1.6799492,
+            48.1142014
+          ],
+          [
+            -1.6799696,
+            48.1141803
+          ],
+          [
+            -1.6800004,
+            48.1141483
+          ],
+          [
+            -1.6800183,
+            48.1141226
+          ],
+          [
+            -1.6800385,
+            48.1140935
+          ],
+          [
+            -1.6800433,
+            48.1140852
+          ],
+          [
+            -1.6800592,
+            48.1140354
+          ],
+          [
+            -1.6800751,
+            48.1139853
+          ],
+          [
+            -1.6800896,
+            48.1139682
+          ],
+          [
+            -1.6801061,
+            48.1139513
+          ],
+          [
+            -1.6801278,
+            48.11396
+          ],
+          [
+            -1.6801465,
+            48.1139678
+          ],
+          [
+            -1.6801936,
+            48.1139866
+          ],
+          [
+            -1.6802413,
+            48.1140057
+          ],
+          [
+            -1.6802826,
+            48.1140226
+          ],
+          [
+            -1.6803167,
+            48.1140366
+          ],
+          [
+            -1.6804059,
+            48.114056
+          ],
+          [
+            -1.6804805,
+            48.1140722
+          ],
+          [
+            -1.6804763,
+            48.1140828
+          ],
+          [
+            -1.6805522,
+            48.1141096
+          ],
+          [
+            -1.6806161,
+            48.1141323
+          ],
+          [
+            -1.6806632,
+            48.11415
+          ],
+          [
+            -1.6806833,
+            48.1141576
+          ],
+          [
+            -1.6808041,
+            48.1142367
+          ],
+          [
+            -1.6808468,
+            48.1142826
+          ],
+          [
+            -1.6809501,
+            48.114305
+          ],
+          [
+            -1.6810222,
+            48.1143205
+          ],
+          [
+            -1.6811182,
+            48.1143413
+          ],
+          [
+            -1.6812046,
+            48.1143599
+          ],
+          [
+            -1.6812628,
+            48.1143823
+          ],
+          [
+            -1.6815347,
+            48.114441
+          ],
+          [
+            -1.6813152,
+            48.1145912
+          ],
+          [
+            -1.681291,
+            48.1148025
+          ],
+          [
+            -1.6811716,
+            48.1148051
+          ],
+          [
+            -1.6808946,
+            48.1148122
+          ],
+          [
+            -1.6808425,
+            48.1147135
+          ],
+          [
+            -1.680758,
+            48.114678
+          ],
+          [
+            -1.6807347,
+            48.1146682
+          ],
+          [
+            -1.680605,
+            48.1146136
+          ],
+          [
+            -1.6801291,
+            48.1146159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "residential",
+        "name": "Allée Adèle de Bretagne",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.651676,
+            48.1050068
+          ],
+          [
+            -1.6514964,
+            48.104399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Rue Elisa Mercoeur",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.656584,
+            48.1133551
+          ],
+          [
+            -1.656703,
+            48.1133321
+          ],
+          [
+            -1.6573437,
+            48.1132336
+          ],
+          [
+            -1.6573847,
+            48.1132265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surface": "ground",
+        "highway": "residential",
+        "width": "3",
+        "name": "Rue Gina Pane",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.69684,
+            48.1342317
+          ],
+          [
+            -1.6979236,
+            48.1336374
+          ],
+          [
+            -1.6984865,
+            48.1323301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Jeanne Malivel",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6537022,
+            48.1097768
+          ],
+          [
+            -1.6535337,
+            48.109551
+          ],
+          [
+            -1.6534127,
+            48.1093472
+          ],
+          [
+            -1.6533156,
+            48.1091804
+          ],
+          [
+            -1.6532609,
+            48.1090889
+          ],
+          [
+            -1.6531176,
+            48.1088347
+          ],
+          [
+            -1.6530732,
+            48.1086171
+          ],
+          [
+            -1.6532013,
+            48.108442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "highway": "pedestrian",
+        "name": "Square Sarah Bernhardt",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6805537,
+            48.0914309
+          ],
+          [
+            -1.681118,
+            48.0914603
+          ],
+          [
+            -1.681201,
+            48.091464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Allée Marie Curie",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639834,
+            48.1163573
+          ],
+          [
+            -1.639627,
+            48.1160057
+          ],
+          [
+            -1.6394926,
+            48.115773
+          ],
+          [
+            -1.6392483,
+            48.1153799
+          ],
+          [
+            -1.6388864,
+            48.1147047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Zenaïde Fleuriot",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.663201,
+            48.1247245
+          ],
+          [
+            -1.6629993,
+            48.1236786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Geneviève de Gaulle-Anthonioz",
+        "oneway": "no",
+        "maxspeed": "50",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6758917,
+            48.0938511
+          ],
+          [
+            -1.6759349,
+            48.0931415
+          ],
+          [
+            -1.6762997,
+            48.0921969
+          ],
+          [
+            -1.6763126,
+            48.0920589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Andrée Récipon",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7086297,
+            48.0981698
+          ],
+          [
+            -1.7085697,
+            48.0982511
+          ],
+          [
+            -1.7084858,
+            48.0984577
+          ],
+          [
+            -1.7084414,
+            48.098828
+          ],
+          [
+            -1.708512,
+            48.0992378
+          ],
+          [
+            -1.7085693,
+            48.0995326
+          ],
+          [
+            -1.7086392,
+            48.0998928
+          ],
+          [
+            -1.70866,
+            48.099978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "pedestrian",
+        "foot": "official",
+        "name": "Square Simone Morand",
+        "motor_vehicle": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7082779,
+            48.1092262
+          ],
+          [
+            -1.7082346,
+            48.1091365
+          ],
+          [
+            -1.7081882,
+            48.1090406
+          ],
+          [
+            -1.708135,
+            48.1089239
+          ],
+          [
+            -1.7080201,
+            48.1086901
+          ],
+          [
+            -1.7076512,
+            48.1087708
+          ],
+          [
+            -1.7074991,
+            48.1088021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "highway": "residential",
+        "name": "Rue Clémence Royer",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6970408,
+            48.1050804
+          ],
+          [
+            -1.6970389,
+            48.1050285
+          ],
+          [
+            -1.6970828,
+            48.1036494
+          ],
+          [
+            -1.697085,
+            48.103579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "highway": "residential",
+        "name": "Allée Aline Landais",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6913355,
+            48.1134884
+          ],
+          [
+            -1.6904962,
+            48.1143208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Avenue Germaine Dulac",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6950736,
+            48.1316939
+          ],
+          [
+            -1.6951331,
+            48.1317283
+          ],
+          [
+            -1.695154,
+            48.131777
+          ],
+          [
+            -1.6952032,
+            48.1318056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Rue Sophie Michel",
+        "maxspeed": "50",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6517358,
+            48.1250818
+          ],
+          [
+            -1.651893,
+            48.1251198
+          ],
+          [
+            -1.6527432,
+            48.1253422
+          ],
+          [
+            -1.6528839,
+            48.125371
+          ],
+          [
+            -1.6530266,
+            48.1253942
+          ],
+          [
+            -1.6550446,
+            48.1257914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Renée Prévert",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7104509,
+            48.1101541
+          ],
+          [
+            -1.7115455,
+            48.1100734
+          ],
+          [
+            -1.7120309,
+            48.110037
+          ],
+          [
+            -1.7124465,
+            48.1099942
+          ],
+          [
+            -1.7124803,
+            48.1099918
+          ],
+          [
+            -1.7126396,
+            48.1099802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "pedestrian",
+        "foot": "yes",
+        "name": "Rue Olympe de Gouges",
+        "motorcar": "yes",
+        "bicycle": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7015856,
+            48.1299662
+          ],
+          [
+            -1.701321,
+            48.1291786
+          ],
+          [
+            -1.7010716,
+            48.1283328
+          ],
+          [
+            -1.7010531,
+            48.1282772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Boulevard Jeanne d'Arc",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6560085,
+            48.111703
+          ],
+          [
+            -1.6561684,
+            48.1116709
+          ],
+          [
+            -1.6577453,
+            48.1114059
+          ],
+          [
+            -1.6578022,
+            48.1113906
+          ],
+          [
+            -1.6578883,
+            48.1113694
+          ],
+          [
+            -1.6585321,
+            48.1112654
+          ],
+          [
+            -1.6588384,
+            48.1111897
+          ],
+          [
+            -1.6604301,
+            48.1107406
+          ],
+          [
+            -1.6600023,
+            48.1102802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "residential",
+        "name": "Allée Edith Piaf",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640398,
+            48.0984841
+          ],
+          [
+            -1.6404112,
+            48.098718
+          ],
+          [
+            -1.6403036,
+            48.0988558
+          ],
+          [
+            -1.6403039,
+            48.0989928
+          ],
+          [
+            -1.6402025,
+            48.0991321
+          ],
+          [
+            -1.6402,
+            48.0992733
+          ],
+          [
+            -1.6400976,
+            48.0994066
+          ],
+          [
+            -1.6401078,
+            48.0996116
+          ],
+          [
+            -1.6400524,
+            48.0996607
+          ],
+          [
+            -1.6399708,
+            48.0997272
+          ],
+          [
+            -1.639976,
+            48.0998922
+          ],
+          [
+            -1.6398563,
+            48.100053
+          ],
+          [
+            -1.6398503,
+            48.1001639
+          ],
+          [
+            -1.639715,
+            48.1002671
+          ],
+          [
+            -1.6397292,
+            48.1004108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "highway": "residential",
+        "name": "Avenue Germaine Tillion",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.711059,
+            48.096623
+          ],
+          [
+            -1.7108728,
+            48.0965653
+          ],
+          [
+            -1.7108201,
+            48.0965553
+          ],
+          [
+            -1.7100261,
+            48.0964083
+          ],
+          [
+            -1.7094829,
+            48.0962918
+          ],
+          [
+            -1.7089454,
+            48.0961499
+          ],
+          [
+            -1.7083651,
+            48.0959488
+          ],
+          [
+            -1.7080397,
+            48.0957984
+          ],
+          [
+            -1.7069715,
+            48.0951304
+          ],
+          [
+            -1.7067796,
+            48.0950163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "name": "Mail Anne Catherine",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6851227,
+            48.104924
+          ],
+          [
+            -1.6851314,
+            48.1050458
+          ],
+          [
+            -1.6850209,
+            48.1050537
+          ],
+          [
+            -1.6850016,
+            48.1044622
+          ],
+          [
+            -1.6849874,
+            48.104064
+          ],
+          [
+            -1.6849859,
+            48.1040216
+          ],
+          [
+            -1.6849676,
+            48.1035107
+          ],
+          [
+            -1.685339,
+            48.1035098
+          ],
+          [
+            -1.6853561,
+            48.1040124
+          ],
+          [
+            -1.6853577,
+            48.104061
+          ],
+          [
+            -1.6853772,
+            48.1046329
+          ],
+          [
+            -1.6852679,
+            48.1046726
+          ],
+          [
+            -1.6852978,
+            48.1049239
+          ],
+          [
+            -1.6851634,
+            48.1049245
+          ],
+          [
+            -1.6851227,
+            48.104924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "unclassified",
+        "name": "Rue Julie d'Angennes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6994865,
+            48.1292958
+          ],
+          [
+            -1.6994131,
+            48.1290883
+          ],
+          [
+            -1.6993331,
+            48.1288232
+          ],
+          [
+            -1.6992757,
+            48.1286471
+          ],
+          [
+            -1.6992526,
+            48.1285821
+          ],
+          [
+            -1.6992286,
+            48.1285166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "residential",
+        "name": "Rue Marie et Pascal Lafaye",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6674714,
+            48.0909237
+          ],
+          [
+            -1.6682881,
+            48.0909355
+          ],
+          [
+            -1.6691018,
+            48.0909494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surface": "ground",
+        "highway": "construction",
+        "width": "3",
+        "name": "Avenue Germaine Dulac",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.69684,
+            48.1342317
+          ],
+          [
+            -1.6973554,
+            48.1346901
+          ],
+          [
+            -1.6981359,
+            48.1355514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Clotilde Vautier",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7082019,
+            48.1291951
+          ],
+          [
+            -1.7076897,
+            48.1292028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "highway": "pedestrian",
+        "name": "Square Sarah Bernhardt",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6817363,
+            48.0912003
+          ],
+          [
+            -1.6821295,
+            48.0912186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name:br": "Straed Marie Alizon",
+        "highway": "residential",
+        "name": "Rue Marie Alizon",
+        "maxspeed": "30",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6705491,
+            48.1069681
+          ],
+          [
+            -1.6702964,
+            48.107739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "created_by": "JOSM",
+        "highway": "pedestrian",
+        "name": "Allée Louise Weiss",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6614182,
+            48.1115948
+          ],
+          [
+            -1.6615382,
+            48.1102689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "surface": "compacted",
+        "highway": "footway",
+        "name": "Promenade Madeleine Desroseaux",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7054887,
+            48.1067901
+          ],
+          [
+            -1.7055289,
+            48.1067629
+          ],
+          [
+            -1.7056,
+            48.1067592
+          ],
+          [
+            -1.7058265,
+            48.1067985
+          ],
+          [
+            -1.706246,
+            48.106968
+          ],
+          [
+            -1.7065642,
+            48.1070629
+          ],
+          [
+            -1.7068978,
+            48.10716
+          ],
+          [
+            -1.7070078,
+            48.107188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "residential",
+        "name": "Rue Clotilde Vautier",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7072108,
+            48.1298301
+          ],
+          [
+            -1.7071052,
+            48.1293563
+          ],
+          [
+            -1.7071348,
+            48.1292716
+          ],
+          [
+            -1.7072953,
+            48.1292068
+          ],
+          [
+            -1.7076897,
+            48.1292028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "highway": "residential",
+        "name": "Avenue Germaine Tillion",
+        "oneway": "yes",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7066828,
+            48.0950833
+          ],
+          [
+            -1.7068784,
+            48.0952051
+          ],
+          [
+            -1.7074268,
+            48.0955655
+          ],
+          [
+            -1.7079288,
+            48.0958785
+          ],
+          [
+            -1.7083253,
+            48.096065
+          ],
+          [
+            -1.7088674,
+            48.0962569
+          ],
+          [
+            -1.70943,
+            48.0963867
+          ],
+          [
+            -1.7099952,
+            48.0964952
+          ],
+          [
+            -1.7108425,
+            48.0966427
+          ],
+          [
+            -1.7110097,
+            48.0966654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "living_street",
+        "name": "Rue Nathalie Lemel",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7108418,
+            48.102657
+          ],
+          [
+            -1.7103501,
+            48.1021196
+          ],
+          [
+            -1.7103333,
+            48.1019788
+          ],
+          [
+            -1.7103279,
+            48.1019338
+          ],
+          [
+            -1.7102712,
+            48.1014587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": "roundabout",
+        "highway": "residential",
+        "name": "Square Séverine",
+        "gender": "F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6794623,
+            48.1219186
+          ],
+          [
+            -1.6794888,
+            48.1219059
+          ],
+          [
+            -1.6795062,
+            48.1218883
+          ],
+          [
+            -1.6795133,
+            48.1218619
+          ],
+          [
+            -1.6795053,
+            48.1218401
+          ],
+          [
+            -1.6794863,
+            48.1218223
+          ],
+          [
+            -1.679457,
+            48.1218097
+          ],
+          [
+            -1.6794205,
+            48.1218056
+          ],
+          [
+            -1.6793848,
+            48.1218118
+          ],
+          [
+            -1.6793585,
+            48.121825
+          ],
+          [
+            -1.679342,
+            48.1218427
+          ],
+          [
+            -1.6793355,
+            48.1218654
+          ],
+          [
+            -1.6793435,
+            48.1218895
+          ],
+          [
+            -1.679363,
+            48.1219078
+          ],
+          [
+            -1.6793935,
+            48.1219205
+          ],
+          [
+            -1.6794311,
+            48.1219241
+          ],
+          [
+            -1.6794623,
+            48.1219186
+          ]
+        ]
+      }
+    }
+  ]
+}
