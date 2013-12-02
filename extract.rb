@@ -27,7 +27,7 @@ out_json_m = { "type" => "FeatureCollection", "features" => [] }
 out_json_f = { "type" => "FeatureCollection", "features" => [] }
 
 
-# Itération sur les objets géographiques en prenance des données
+# Itération sur les objets géographiques en provenance des données
 # d'OpenStreetMap
 obj["features"].each do |b|
   geom = b["geometry"]
