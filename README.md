@@ -36,3 +36,13 @@ Le contenu de ces deux fichiers est ensuite copié en tant que variable `Javascr
 
 La page HTML `out/leaflet.html` se charge de présenter côte à côte les deux cartes, surchargées des données produites. Un fond OpenStreetMap en niveau de gris est utilisé, et un greffon pour `Leaflet` assure que les deux cartes restent synchronisées quand on zoome ou bouge l'une ou l'autre (c.f. `out/js/L.Map.Sync.js`).
 
+## Récupération du `GeoJSON` depuis `OpenStreetMap`
+
+Le fichier GeoJSON a été réalisé en deux temps. Premièrement, il faut récupérer les données brutes en `XML`, via une requête à l'OverPass API:
+
+    wget -O rennes.osm 'http://overpass-api.de/api/interpreter?data=[out:xml];way(area:3600054517)[name][highway];out meta;>>;out meta;'
+    
+Cela devrait produire un fichier `rennes.osm` dans le répertoire courant, qu'il suffit d'ouvrir dans `JOSM`, puis de sauvegarder au format `GeoJSON` ("enregistrer sous ..."). Une copie du fichier obtenu est déjà présent dans le sous-répertoire `out/`.
+
+
+
