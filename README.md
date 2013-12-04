@@ -42,7 +42,7 @@ Le fichier GeoJSON a été réalisé en deux temps. Premièrement, il faut récu
 
     wget -O rennes.osm 'http://overpass-api.de/api/interpreter?data=[out:xml];way(area:3600054517)[name][highway];out meta;>>;out meta;'
     
-Cela devrait produire un fichier `rennes.osm` dans le répertoire courant, qu'il suffit d'ouvrir dans `JOSM`, puis de sauvegarder au format `GeoJSON` ("enregistrer sous ..."). Une copie du fichier obtenu est déjà présent dans le sous-répertoire `out/`.
+Cela devrait produire un fichier `rennes.osm` dans le répertoire courant, qu'il suffit d'ouvrir dans `JOSM`, puis de sauvegarder au format `GeoJSON` ("enregistrer sous ..."). Une copie du fichier obtenu est déjà présent dans le sous-répertoire `in/`.
 
 
 
