@@ -29,7 +29,7 @@ Lancez la commande:
 
 Ceci aura pour effet de générer deux fichiers `GeoJSON` dans le sous-répertoire `out/`:
 
- * `female.geojson`: Ensemble des éléments géographiques ayant été détectée comme étant "féminin" ou "les deux"
+ * `female.geojson`: Ensemble des éléments géographiques ayant été détectés comme étant "féminin" ou "les deux"
  * `male.geojson`: ... "masculin" ou "les deux"
 
 Le contenu de ces deux fichiers est ensuite copié en tant que variable dans le code `Javascript` `out/js/rennes-genre.js` (`var female` et `var male` respectivement).
@@ -42,7 +42,7 @@ Le fichier GeoJSON a été réalisé en deux temps. Premièrement, il faut récu
 
     wget -O rennes.osm 'http://overpass-api.de/api/interpreter?data=[out:xml];way(area:3600054517)[name][highway];out meta;>>;out meta;'
     
-Cela devrait produire un fichier `rennes.osm` dans le répertoire courant, qu'il suffit d'ouvrir dans `JOSM`, puis de sauvegarder au format `GeoJSON` ("enregistrer sous ..."). Une copie du fichier obtenu est déjà présent dans le sous-répertoire `in/`.
+Cela produit un fichier `rennes.osm` dans le répertoire courant, qu'il suffit d'ouvrir dans `JOSM`, puis de sauvegarder au format `GeoJSON` ("enregistrer sous ..."). Une copie du fichier obtenu est déjà présent dans le sous-répertoire `in/`.
 
 
 
